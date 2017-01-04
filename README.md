@@ -8,13 +8,13 @@ Simple Implementation of KDTree, OctTree, QuadTree
  * Insert : SingleNode insert, Points set insert (Split by median using median of medians and presort)
  * Refer to https://en.wikipedia.org/wiki/K-d_tree
  
- 2 OctTree implementation
+2 OctTree implementation
  * Features :
  * Search : Range Search
  * Insert : SingleNode insert
  * Refer to https://en.wikipedia.org/wiki/Octree
  
- 3 QuadTree implementation
+3 QuadTree implementation
  * Features :
  * Search : Range Search
  * Insert : SingleNode insert
