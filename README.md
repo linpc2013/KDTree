@@ -6,6 +6,7 @@ Simple Implementation of KDTree, OctTree, QuadTree
  * K-Dimension
  * Search : Range Search, Nearest NeighBor Search
  * Insert : SingleNode insert, Points set insert (Split by median using median of medians and presort)
+ * Demo : JAVAFX(JAVA 8) Demo for 2DTree
  * Refer to https://en.wikipedia.org/wiki/K-d_tree
  
 2 OctTree implementation
